@@ -35,7 +35,7 @@
   <artifactId>spring-pet-clinic</artifactId>
 
 
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
 
   <name>spring-pet-clinic</name>
@@ -114,6 +114,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/ParkerDuncanDev/Spring-pet-clinic.git</developerConnection>
+    <tag>spring-pet-clinic-0.0.1</tag>
   </scm>
 
   <modules>
